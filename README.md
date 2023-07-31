@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome! 🍪☕
+#### About me:
 
-<!--
-**SalipA/SalipA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍🎓 I'm a graduate Yandex Practicum Java Developer course 2023.
+- My JavaRush profile level now is <font size = "3">**14**</font> 😅 , but I'm plan to 
+  reach 51 by the end of the 
+  year 🎯. This year, 2023.
+- No, I still don't have pets 🐐, but I'm working on it 👩‍💻.
+#### One more thing 🍏:  
+```java 
+  boolean isTeam 💔 = !"Me and my Brother together".equals("great team"); 
+  ```  
+Why it`s true? 😂 Because, [He](https://github.com/Welpodron) is front 🙂 and I am back 🙃
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
